@@ -4,5 +4,5 @@ Dashboard Link : https://public.tableau.com/app/profile/simvv/viz/job_analysis_1
 
 
 #20 April 2022 update
--First draft done and published to table
--Working on data cleasning part for City name
+- First draft done and published to tableau
+- Working on data cleasning part for City name
